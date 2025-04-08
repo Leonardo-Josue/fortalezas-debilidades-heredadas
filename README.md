@@ -1,0 +1,1 @@
+# fortalezas-debilidades-heredadas
